@@ -33,5 +33,4 @@ An interactive, intelligent, and emoji-enhanced scraper for [https://play.max.co
 pip install selenium webdriver-manager
 
 ## 🧑‍🤝‍🧑 Join Our Community
-Join the official DRMLab.io Discord server:
-👉 **https://discord.gg/7bdh7ad6ex**
+👉 [Join the official DRMLab.io Discord server](https://discord.gg/7bdh7ad6ex)
