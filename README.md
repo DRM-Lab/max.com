@@ -31,7 +31,7 @@ An interactive, intelligent, and emoji-enhanced scraper for [https://play.max.co
 
 ```bash
 pip install selenium webdriver-manager
-
+```
 
 ## 🧑‍🤝‍🧑 Join Our Community
 
